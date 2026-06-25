@@ -1,3 +1,5 @@
+## NOTE:- This app is no longer maintained
+
 # 💬 SwiftUI Chat App (with WebSocket + Authentication)
 
 A simple real-time chat app built in SwiftUI that demonstrates:
